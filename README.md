@@ -1,1 +1,1 @@
-# Japan-Life-Expectecncy
+# Japan-Life-Expectancy
